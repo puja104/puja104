@@ -1,20 +1,15 @@
 ## Hi, I'm Puja
 <a href="https://www.linkedin.com/in/puja-baral/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currelty a student at Penn Stae Mont Alto majoring in Information Technology option Cybersecurity. 
+Recent Information Technology graduate with hands-on experience in security operations, technical support, and data analysis. Interested in cybersecurity, enterprise systems, and operational reporting with experience using tools such as Microsoft Sentinel, Power BI, SQL, ServiceNow, and Active Directory.
 
+This GitHub showcases projects focused on:
 
-<h2> Objective <h2>
-<p>CHANGE THIS</p>
+* Security monitoring and threat analysis
+* Network traffic and packet analysis
+* Active Directory administration
+* Power BI dashboards and reporting
+* SQL and relational database design
+* Technical troubleshooting and operational workflows
 
-<h2>Skills</h2>
-<p>ADD SKILLS</p>
-
-<h2>Certifications </h2>
-<p> Nework+ </p>
-
-
-<h2>Projects</h2>
-<p>ADD PROJECTS AS LIST</p>
-<!--
-**puja104/puja104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building practical blue team, SOC, and systems analysis projects while continuing to expand my skills in cybersecurity and enterprise technology.
