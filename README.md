@@ -7,9 +7,5 @@ This GitHub showcases projects focused on:
 
 * Security monitoring and threat analysis
 * Network traffic and packet analysis
-* Active Directory administration
-* Power BI dashboards and reporting
-* SQL and relational database design
-* Technical troubleshooting and operational workflows
-
+  
 Currently building practical blue team, SOC, and systems analysis projects while continuing to expand my skills in cybersecurity and enterprise technology.
