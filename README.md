@@ -5,7 +5,7 @@ Recent Information Technology graduate with hands-on experience in security oper
 
 This GitHub showcases projects focused on:
 
-* Security monitoring and threat analysis
 * Network traffic and packet analysis
+* Healthcare data analysis
   
 Currently building practical blue team, SOC, and systems analysis projects while continuing to expand my skills in cybersecurity and enterprise technology.
