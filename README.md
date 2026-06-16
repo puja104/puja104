@@ -7,5 +7,6 @@ This GitHub showcases projects focused on:
 
 * Network traffic and packet analysis
 * Healthcare data analysis
+* PhishProof (Phishing Training Platform)
   
 Currently building practical blue team, SOC, and systems analysis projects while continuing to expand my skills in cybersecurity and enterprise technology.
